@@ -4,6 +4,11 @@
 #### header H4
 ##### header H5
 ###### header H6
+####### git push origin --delete v1.7
+######## git tag -d v1.7
+######### git tag ​
+########### git push --tags
 
-![This is an image](https://assets/images//cr.jpeg)
+
+![this image](http://url/to/cr.jpeg)
 
